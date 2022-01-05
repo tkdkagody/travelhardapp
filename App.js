@@ -72,7 +72,7 @@ export default function App() {
     if(text ==="") {
       return;
     }
-    //save to do 
+    //save to do //git 확인해보기///////
     //react 는 상태 직접 수정 불가능함 ! 
     // const newToDos = Object.assign({}, toDos, { [Date.now()] : {text: text, work : working}});
     const newToDos = {
